@@ -19,6 +19,13 @@ Me chamo Cassiano Comim, tenho 17 anos e sou natural do Paraná. Concluí o ensi
             src="https://custom-icon-badges.demolab.com/badge/-Linkedin%20-blue?style=for-the-badge&logoColor=white&logo=linked"
         />
     </a>
+    <a href="https://www.instagram.com/cassi.comim?igsh=dWtsOWswOWZwNG04">
+        <img 
+            alt="Perfil do Instagram"
+            title="Instagram"  
+            src="https://custom-icon-badges.demolab.com/badge/-instagram%20-orange?style=for-the-badge&logoColor=white&logo=instagram"
+        />
+    </a>
     <a href="https://github.com/cassianocomim?tab=repositories&sort=stargazers">
         <img 
             alt="Total de estrelas" 
