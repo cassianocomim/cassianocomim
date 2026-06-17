@@ -105,7 +105,7 @@ Me chamo Cassiano Comim, tenho 17 anos e sou natural do Paraná. Concluí o ensi
       align="left" 
       alt="GitHub Stats" 
       height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=cassianocomim&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=5" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=cassianocomim&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=5&count_private=true" 
   />
 
 </p>
