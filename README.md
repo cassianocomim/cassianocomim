@@ -34,11 +34,11 @@ Me chamo Cassiano Comim, tenho 17 anos e sou natural do Paraná. Concluí o ensi
         />
     </a>
     <a href="https://github.com/cassianocomim?tab=followers">
-        <img 
-            alt="Seguidores" 
-            title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/cassianocomim?color=C79600&labelColor=%23E1AD0E&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
-        />
+    <img 
+        alt="Seguidores" 
+        title="Me siga no GitHub" 
+        src="https://img.shields.io/github/followers/cassianocomim?color=C79600&labelColor=E1AD0E&style=for-the-badge&logo=github&label=Seguidores"
+    />
     </a>
 </p>
 
